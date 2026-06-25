@@ -89,7 +89,7 @@ h1 {
 }
 
 .intro {
-    font-size: 1rem;
+    font-size: 1.05rem;
     color: var(--color-ink-muted);
     max-width: 60ch;
     margin-bottom: 1rem;
@@ -106,7 +106,7 @@ h1 {
 .credits .fa  { color: var(--color-accent); margin-right: 0.5rem; }
 
 /* ── STORIES ── */
-.stories { padding: 3rem 0; }
+.stories { padding: 5rem 0; }
 
 h2 {
     font-family: var(--font-display);
@@ -133,17 +133,17 @@ h2 {
     background: var(--color-surface);
     border: 1px solid var(--color-border);
     border-radius: 6px;
-    padding: 1.5rem;
+    padding: 2rem;
     border-top: 3px solid var(--color-accent);
 }
 
 .story-source {
-    font-size: 0.7rem;
-    font-weight: 600;
-    letter-spacing: 0.1em;
+    font-size: 0.85rem;
+    font-weight: 700;
+    letter-spacing: 0.08em;
     text-transform: uppercase;
     color: var(--color-accent);
-    margin-bottom: 0.5rem;
+    margin-bottom: 0.75rem;
 }
 
 .story-card h3 {
